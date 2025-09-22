@@ -1,5 +1,5 @@
 #Day 3
-ame_list=[0,1,2]
+game_list=[0,1,2]
 def display_game(game_list):
     print("here is the game list:")
     print(game_list)
